@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: sienna;
+    padding: 80px;
+    margin: 0%;
+    border-style: none;
+}
+h3{
+    text-align: center;
+    font-size: medium;
+    word-spacing: 15px;
+    margin-top: 0%;
+    padding-top: 10px;
+    font-weight: bolder;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+h2{
+    font-weight: bold;
+}
+.container{
+    color: brown;
+    font-weight: bolder;
+} 
+body{
+    background-color: rgb(245, 200, 86)
+    
+}
